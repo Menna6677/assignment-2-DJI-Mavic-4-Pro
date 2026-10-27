@@ -1,0 +1,455 @@
+/* sm */
+@media screen and (max-width:768px)
+{
+    .sm-100
+    {
+        width: 100%;
+    }
+    .sm-90
+    {
+        width: 90%;
+    }
+    .sm-80
+    {
+        width: 80%;
+    }
+    .sm-70
+    {
+        width: 70%;
+    }
+    .sm-50
+    {
+        width: 50%;
+    }
+    .sm-33
+    {
+        width: 33.33%;
+    }
+    .sm-30
+    {
+        width: 30%;
+    }
+    .sm-25
+    {
+        width: 25%;
+    }
+    .sm-20
+    {
+        width: 20%;
+    }
+    .sm-16
+    {
+        width: 16%;
+    }
+}
+
+/* md */
+@media screen and (min-width:769px) and (max-width:992px)
+{
+    .md-100
+    {
+        width: 100%;
+    }
+    .md-90
+    {
+        width: 90%;
+    }
+    .md-80
+    {
+        width: 80%;
+    }
+    .md-70
+    {
+        width: 70%;
+    }
+    .md-50
+    {
+        width: 50%;
+    }
+    .md-33
+    {
+        width: 33.333%;
+    }
+    .md-30
+    {
+        width: 30%;
+    }
+    .md-25
+    {
+        width: 25%;
+    }
+    .md-20
+    {
+        width: 20%;
+    }
+    .md-16
+    {
+        width: 16%;
+    }
+}
+
+/* lg */
+@media screen and (min-width:993px) and (max-width:1200px)
+{
+    .lg-100
+    {
+        width: 100%;
+    }
+    .lg-90
+    {
+        width: 90%;
+    }
+    .lg-80
+    {
+        width: 80%;
+    }
+    .lg-70
+    {
+        width: 70%;
+    }
+    .lg-50
+    {
+        width: 50%;
+    }
+    .lg-33
+    {
+        width: 33.333%;
+    }
+    .lg-30
+    {
+        width: 30%;
+    }
+    .lg-25
+    {
+        width: 25%;
+    }
+    .lg-20
+    {
+        width: 20%;
+    }
+    .lg-16
+    {
+        width: 16%;
+    }
+}
+
+/* xl */
+@media screen and (min-width:1201px) and (max-width:1400px)
+{
+    .xl-100
+    {
+        width: 100%;
+    }
+    .xl-90
+    {
+        width: 90%;
+    }
+    .xl-80
+    {
+        width: 80%;
+    }
+    .xl-70
+    {
+        width: 70%;
+    }
+    .xl-50
+    {
+        width: 50%;
+    }
+    .xl-33
+    {
+        width: 33.333%;
+    }
+    .xl-30
+    {
+        width: 30%;
+    }
+    .xl-25
+    {
+        width: 25%;
+    }
+    .xl-20
+    {
+        width: 20%;
+    }
+    .xl-16
+    {
+        width: 16%;
+    }
+}
+
+/* xxl */
+@media screen and (min-width:1401px)
+{
+    .xxl-100
+    {
+        width: 100%;
+    }
+    .xxl-90
+    {
+        width: 90%;
+    }
+    .xxl-80
+    {
+        width: 80%;
+    }
+    .xxl-70
+    {
+        width: 70%;
+    }
+    .xxl-50
+    {
+        width: 50%;
+    }
+    .xxl-33
+    {
+        width: 33.333%;
+    }
+    .xxl-30
+    {
+        width: 30%;
+    }
+    .xxl-25
+    {
+        width: 25%;
+    }
+    .xxl-20
+    {
+        width: 20%;
+    }
+    .xxl-16
+    {
+        width: 16%;
+    }
+}
+
+@media screen and (max-width:768px)
+{
+    .nav-bar .container
+    {
+        margin: 0;
+    }
+    .home-section .container
+    {
+        padding-top: 180px;
+        padding-bottom: 180px;
+    }
+    .nav-bar .right-nav
+    {
+        display: none;
+    }
+    .home-section .home-img-holder
+    {
+        padding: 0;
+    }
+    .home-section .home-content .bages span
+    {
+        margin-top: 50px;
+    }
+    .key-feature-section .card
+    {
+        padding-right: 0px;
+    }
+    .key-feature-section .expolre-btn
+    {
+        margin-top: 20px;
+    }
+    .key-feature-section .expolre-btn button
+    {
+        margin: auto;
+    }
+    .reviews-section .total-score-holder
+    {
+        padding-right: 0;
+        margin-bottom: 30px;
+    }
+    .reviews-section .review-btn-holder
+    {
+        display: flex;
+        justify-content: center;
+        margin-top: 70px;
+    }
+    .accessories-section .set-holder
+    {
+        padding-right: 0;
+        margin-bottom:50px;
+    }
+    .footer-section .footer-holder
+    {
+        padding-left: 0;
+        margin-bottom: 30px;
+    }
+    .footer-section .end-holder
+    {
+        justify-content: center;
+    }
+}
+
+@media screen and (min-width:769px) and (max-width:992px)
+{
+    .nav-bar .container
+    {
+        margin: 0;
+    }
+    .home-section .container
+    {
+        padding-top: 180px;
+        padding-bottom: 180px;
+    }
+    .nav-bar .right-nav
+    {
+        display: none;
+    }
+    .home-section .home-img-holder
+    {
+        padding: 0;
+    }
+    .home-section .home-content .bages span
+    {
+        margin-top: 50px;
+    }
+    .key-feature-section .card
+    {
+        padding-right: 40px;
+    }
+    .key-feature-section .expolre-btn
+    {
+        margin-top: 20px;
+    }
+    .key-feature-section .expolre-btn button
+    {
+        margin: auto;
+    }
+    .reviews-section .total-score-holder
+    {
+        padding-right: 0;
+        margin-bottom: 30px;
+    }
+    .reviews-section .review-btn-holder
+    {
+        display: flex;
+        justify-content: center;
+        margin-top: 70px;
+    }
+    .accessories-section .set-holder
+    {
+        padding-right: 50px;
+        margin-bottom:50px;
+    }
+    .footer-section .footer-holder
+    {
+        padding-right: 0;
+        margin-bottom: 50px;
+    }
+    .md-padding-0
+    {
+        padding-left: 0;
+    }
+
+}
+
+@media screen and (min-width:993px) and (max-width:1200px)
+{
+    .nav-bar .container
+    {
+        margin: 0;
+    }
+    .home-section .container
+    {
+        padding-top: 180px;
+        padding-bottom: 180px;
+    }
+    .nav-bar .right-nav
+    {
+        display: none;
+    }
+    .home-section .home-img-holder
+    {
+        padding: 0;
+    }
+    .home-section .home-content .bages span
+    {
+        margin-top: 50px;
+    }
+    .key-feature-section .card
+    {
+        padding-right: 40px;
+    }
+    .key-feature-section .expolre-btn
+    {
+        margin-top: 20px;
+    }
+    .key-feature-section .expolre-btn button
+    {
+        margin: auto;
+    }
+    .reviews-section .total-score-holder
+    {
+        padding-right: 0;
+        margin-bottom: 30px;
+    }
+    .reviews-section .review-btn-holder
+    {
+        display: flex;
+        justify-content: center;
+        margin-top: 70px;
+    }
+    .accessories-section .set-holder
+    {
+        padding-right: 50px;
+        margin-bottom:50px;
+    }
+    .footer-section .footer-holder
+    {
+        padding-right: 20px;
+        margin-bottom: 50px;
+    }
+    .md-padding-0
+    {
+        padding-left: 0;
+    }
+}
+
+@media screen and (min-width:1201px) and (max-width:1400px)
+{
+    .nav-bar .container
+    {
+        margin: 0;
+        width: 80%;
+        margin: auto;
+    }
+    .home-section .container
+    {
+        padding-top: 180px;
+        padding-bottom: 180px;
+    }
+    .nav-bar .right-nav
+    {
+        display: contents;
+    }
+    .accessories-section .set-holder
+    {
+        padding-right: 10px;
+        margin-bottom:50px;
+    }
+
+}
+
+@media screen and (min-width:1401px)
+{
+    .nav-bar .container
+    {
+        margin: 0;
+        width: 80%;
+        margin: auto;
+    }
+    .home-section .container
+    {
+        padding-top: 180px;
+        padding-bottom: 180px;
+    }
+    .nav-bar .right-nav
+    {
+        display: contents;
+    }
+}
